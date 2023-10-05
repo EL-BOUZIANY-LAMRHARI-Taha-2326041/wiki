@@ -49,3 +49,7 @@ Minecraft Education, ou la Version Éducative, est une version de Minecraft dér
 
 ## Acheter Minecraft
 [Acheter ce super jeu](https://www.minecraft.net/fr-fr)
+[Notre Site internet](https://www.minecraft.net/fr-fr))
+
+## Crédits
+# Taha # Ronan
