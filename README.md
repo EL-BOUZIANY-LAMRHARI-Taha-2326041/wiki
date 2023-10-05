@@ -1,4 +1,4 @@
-# wiki
+# MINECRAFT
 td wiki repository
 
 - [ ] Hi
