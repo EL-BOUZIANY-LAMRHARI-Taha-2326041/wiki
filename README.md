@@ -45,4 +45,5 @@ Minecraft Education, ou la Version Éducative, est une version de Minecraft dér
 1. Tuer l'ender dragon 
 2. Trouver du diamand
    * Trouver de la nétherite 
-3. Allez dans la dimension du Nether 
+3. Allez dans la dimension du Nether
+4. ~~Mourir~~
