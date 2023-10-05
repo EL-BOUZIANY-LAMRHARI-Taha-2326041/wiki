@@ -48,4 +48,4 @@ Minecraft Education, ou la Version Éducative, est une version de Minecraft dér
 4. ~~Mourir~~
 
 ## Acheter Minecraft
-[Acheter-ce-super-jeu](https://www.minecraft.net/fr-fr)
+[Acheter ce super jeu](https://www.minecraft.net/fr-fr)
