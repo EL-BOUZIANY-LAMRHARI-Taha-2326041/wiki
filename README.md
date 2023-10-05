@@ -1,7 +1,7 @@
 # MINECRAFT
 Quelle est le meilleurs jeux ?
 
-- [ ] Fortine
+- [ ] Fortnite
 - [ ] Fifa
 - [x] Minecraft
 - [ ] Autre...
@@ -18,11 +18,4 @@ Minecraft:Java Edition, ou Version Java, est la version disponible uniquement su
 Minecraft: Bedrock Edition ou Version Bedrock pour la différencier, est la version plus récente de Minecraft disponible sur la plupart des plate-formes de type console. Elle est quasiment identique à Java, mais moins appropriée pour les joueurs plus techniques. Son système de multijoueur met l'accent sur le jeu en ligne gratuit entre amis, mais possède également des serveurs en lignes ainsi qu'un système de multijoueur payant appelé Realms Plus maintenu par Mojang. C'est la version de Minecraft la plus achetée et jouée disponible en France.
 
 Minecraft Education, ou la Version Éducative, est une version de Minecraft dérivée de la Version Bedrock optimisée pour l'usage en classe. Elle apporte de nombreux éléments éducatifs, notamment dans le domaine du code et de la chimie.
-
-
-#### yes
-  - no
-  - - maybe
-
-
     
