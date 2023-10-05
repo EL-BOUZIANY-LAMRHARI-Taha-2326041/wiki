@@ -10,7 +10,6 @@ Quelle est le meilleurs jeux ?
 - [x] Minecraft
 - [ ] Autre...
 
-======
 ## Minecraft c'est quoi ?
 
 Minecraft est un jeu mélangeant construction et aventure, développé par Mojang et créé en 2009 par Markus « Notch » Persson. Il permet à ses joueurs de manipuler un monde en 3D, composé entièrement de blocs à détruire, placer et transformer. Jouable en solo ou en multijoueur.
@@ -26,7 +25,7 @@ Minecraft: Bedrock Edition ou Version Bedrock pour la différencier, est la vers
 
 Minecraft Education, ou la Version Éducative, est une version de Minecraft dérivée de la Version Bedrock optimisée pour l'usage en classe. Elle apporte de nombreux éléments éducatifs, notamment dans le domaine du code et de la chimie.
 
-> Note, désormais les deux version **Minecraft** sont vendu ensemble au meme prix.
+> Désormais les deux version **Minecraft** sont vendu ensemble au meme prix.
 
 ## Aide au jeu
 
@@ -47,3 +46,6 @@ Minecraft Education, ou la Version Éducative, est une version de Minecraft dér
    * Trouver de la nétherite 
 3. Allez dans la dimension du Nether
 4. ~~Mourir~~
+
+## Acheter Minecraft
+[Acheter-ce-super-jeu](https://www.minecraft.net/fr-fr)
