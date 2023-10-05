@@ -1,3 +1,8 @@
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNvmsHtpecojd8xM66SZVZuLXbRlaSuK06g&usqp=CAU "Logo Title Text 2"
+
 ## MINECRAFT
 Quelle est le meilleurs jeux ?
 
@@ -34,6 +39,11 @@ Minecraft Education, ou la Version Éducative, est une version de Minecraft dér
 | Pierre | En cassant de la pierre    |
 | Fer | En minant du fer et le mettant dans un four      |
 | Lit | Avec du bois et l'extermination de moutons      |
-| houe netherite  | Personne fait ça    |
+| houe nétherite  | Personne fait ça    |
 
 ## Objectifs du jeu
+
+1. Tuer l'ender dragon 
+2. Trouver du diamand
+  * Trouver de la nétherite 
+3. Allez dans la dimension du Nether 
