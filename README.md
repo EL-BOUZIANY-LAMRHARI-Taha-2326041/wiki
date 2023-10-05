@@ -22,9 +22,7 @@ Minecraft: Bedrock Edition ou Version Bedrock pour la différencier, est la vers
 
 Minecraft Education, ou la Version Éducative, est une version de Minecraft dérivée de la Version Bedrock optimisée pour l'usage en classe. Elle apporte de nombreux éléments éducatifs, notamment dans le domaine du code et de la chimie.
 
-Quote break.
-
-> Note, désormais les deux version sont vendu ensemble au meme prix.
+> Note, désormais les deux version **Minecraft** sont vendu ensemble au meme prix.
 
 ## Aide au jeu
 
